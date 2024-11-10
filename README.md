@@ -1,1 +1,1 @@
-# dokushu_csharp
+# 独習C#の学習メモ
